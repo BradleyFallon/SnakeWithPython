@@ -18,3 +18,10 @@ Alias or real name?
 for now we can use github usernames I guess. I don't want to put your name in here without permission.
 
 Gastropod@github
+
+UPDATES:
+10/29/2015
+-Snake will not turn 180deg, only 90deg turns
+-Snake head rotates
+-Head has transparency
+-Changed color scheme
